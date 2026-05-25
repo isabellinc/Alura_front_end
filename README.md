@@ -17,4 +17,4 @@ Isabelli Nunes Costa
 
 Linkedin: https://www.linkedin.com/isabelli-nunes-costa
 
-Link para acessar o projeto: <a> href= "https://alura-front-bjsbectfk-isabelli-nunes-costa-s-projects.vercel.app" Acesse aqui ></a>
+Link para acessar o projeto:  "https://alura-front-bjsbectfk-isabelli-nunes-costa-s-projects.vercel.app" 

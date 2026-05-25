@@ -153,4 +153,12 @@ body{
         justify-content: center;
         margin-right: 15%;
     }
+
+    .apresentacao__imagem__about{
+        display: flex;
+        justify-content: center;
+        margin-right: 15%;
+        width:60% ;
+        padding-bottom: 15%;
+    }
 }
